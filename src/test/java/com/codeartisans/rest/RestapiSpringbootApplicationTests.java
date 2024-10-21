@@ -9,5 +9,4 @@ class RestapiSpringbootApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
